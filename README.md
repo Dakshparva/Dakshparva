@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dakshath kumar N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-"[![image](https://user-images.githubusercontent.com/101206655/193306910-17f8b055-a982-40ee-9004-b353ac977bdc.png)
-"](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif)
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" width="641" height="481">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshparva&label=Profile%20views&color=0e75b6&style=flat" alt="dakshparva" /> </p>
 
