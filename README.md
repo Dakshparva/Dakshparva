@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshparva&label=Profile%20views&color=0e75b6&style=flat" alt="dakshparva" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m **Full Stack Web Developer** in Fork Technologies Pvt.Ltd
 
 - 📫 How to reach me **dakshathkumar@gmail.com**
 
