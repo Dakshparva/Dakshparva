@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshparva&label=Profile%20views&color=0e75b6&style=flat" alt="dakshparva" /> </p>
 
-- 🌱 I’m currently learning **full stack web development course from newton school**
+- 🌱 I’m currently learning **Full Stack Web Developer**
 
 - 📫 How to reach me **dakshathkumar@gmail.com**
 
